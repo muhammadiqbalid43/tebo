@@ -48,7 +48,7 @@ export default function LoginForm() {
   return (
     <Card className="mx-auto max-w-sm">
       <CardHeader>
-        <CardTitle className="text-2xl">Sign up to Tebo</CardTitle>
+        <CardTitle className="text-2xl">Sign In to Tebo</CardTitle>
         <CardDescription>
           A place where even <span className="italic">you</span> can find a
           friend.
